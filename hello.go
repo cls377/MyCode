@@ -1,4 +1,8 @@
 package main
-func main(){
+
+import "fmt"
+
+func main() {
 	fmt.Println("Hello Go")
+	//修改1
 }
